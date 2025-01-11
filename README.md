@@ -3,7 +3,7 @@
 Detecting faces on images using OpenCV and Haar cascade classifier.
 
 
-Requirements -
+## Requirements -
 
 - numpy
 - matplotlib
